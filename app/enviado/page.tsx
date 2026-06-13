@@ -15,12 +15,12 @@ if (tipo === "reflexoes") {
   href = "/participar#acompanhar";
 }
 
-if (tipo === "acompanhar") {
-  href = "/participar#compartilhar";
+if (tipo === "temas") {
+  href = "/participar#acompanhar";
 }
 
-if (tipo === "temas") {
-  href = "/participar#loja";
+if (tipo === "acompanhar") {
+  href = "/participar#compartilhar";
 }
 
 return (
