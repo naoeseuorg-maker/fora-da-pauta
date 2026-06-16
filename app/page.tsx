@@ -11,7 +11,7 @@ export default function Home() {
             />
 
             <div className="text-sm uppercase tracking-[0.3em] text-zinc-500 mb-6">
-              Terceiro Nível
+              Terceiro Nível ✓
             </div>
 
             <h1 className="text-4xl md:text-6xl font-semibold tracking-tight leading-tight mb-8">
