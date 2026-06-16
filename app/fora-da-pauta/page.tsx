@@ -1,5 +1,11 @@
 const perguntas = [
   {
+    titulo: "Quem ganha enquanto todos brigam?",
+    imagem: "/camisetas/quem-ganha/camiseta.png",
+    href: "/quem-ganha",
+    status: "publicado",
+  },
+  {
     titulo: "Se o Brasil arrecada trilhões, por que falta dinheiro?",
     imagem: "/camisetas/trilhoes/camiseta.png",
     href: "/trilhoes",

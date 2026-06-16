@@ -22,7 +22,7 @@ export default function VitoriaESuaPage() {
           </p>
 
           <a
-            href="https://montink.com/terceiro-nivel/vitoria-3bk54"
+            href="https://montink.com/terceiro-nivel/vitoria-1ghnm"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-zinc-900 text-white rounded-2xl py-4 px-8 text-base font-medium hover:bg-zinc-800 transition-all duration-300"
@@ -116,7 +116,7 @@ export default function VitoriaESuaPage() {
 
             <div className="pt-10 text-center">
               <a
-                href="https://montink.com/terceiro-nivel/vitoria-3bk54"
+                href="https://montink.com/terceiro-nivel/vitoria-1ghnm"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-zinc-900 text-white rounded-2xl py-4 px-8 text-base font-medium hover:bg-zinc-800 transition-all duration-300"
