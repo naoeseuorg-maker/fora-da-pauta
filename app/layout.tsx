@@ -1,23 +1,25 @@
-import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
-import { Analytics } from "@vercel/analytics/react";
-import "./globals.css";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
 export const metadata: Metadata = {
-  metadataBase: new URL("https://terceironivel.org"),
+  metadataBase: new URL("https://www.terceironivel.org"),
 
-  title: "Terceiro Nível",
-  description: "Traduzindo temas complexos para linguagem acessível.",
+  title: {
+    default: "Terceiro Nível",
+    template: "%s | Terceiro Nível",
+  },
+
+  description:
+    "Conscientização e reflexão pública sobre temas que afetam a vida das pessoas, mas raramente recebem atenção proporcional à sua importância.",
+
+  keywords: [
+    "terceiro nível",
+    "conscientização",
+    "reflexão pública",
+    "cidadania",
+    "dívida pública",
+    "orçamento público",
+    "economia",
+    "política",
+    "temas fora da pauta",
+  ],
 
   icons: {
     icon: "/icon.png",
@@ -25,15 +27,16 @@ export const metadata: Metadata = {
 
   openGraph: {
     title: "Terceiro Nível",
-    description: "Traduzindo temas complexos para linguagem acessível.",
-    url: "https://terceironivel.org",
+    description:
+      "Perguntas que ajudam a observar o que está por trás dos temas que afetam o cotidiano das pessoas.",
+    url: "https://www.terceironivel.org",
     siteName: "Terceiro Nível",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Terceiro Nível",
+        alt: "Terceiro Nível — Conscientização e reflexão pública",
       },
     ],
     locale: "pt_BR",
@@ -43,24 +46,8 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Terceiro Nível",
-    description: "Traduzindo temas complexos para linguagem acessível.",
+    description:
+      "Perguntas que ajudam a observar o que está por trás dos temas que afetam o cotidiano das pessoas.",
     images: ["/og-image.png"],
   },
 };
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
-    <html
-      lang="pt-BR"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">
-        {children}
-        <Analytics />
-      </body>
-    </html>
-  );
-}
