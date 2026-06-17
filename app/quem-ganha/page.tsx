@@ -1,3 +1,15 @@
+export const metadata = {
+  title: "Quem ganha enquanto todos brigam?",
+  description:
+    "Uma reflexão sobre polarização, disputa pública e os interesses que se beneficiam quando a sociedade se mantém dividida.",
+};
+
+
+
+
+
+
+
 export default function QuemGanhaPage() {
   return (
     <main className="min-h-screen bg-[#f5f5f3] text-zinc-900">
