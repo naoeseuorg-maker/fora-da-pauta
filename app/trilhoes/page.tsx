@@ -1,3 +1,11 @@
+export const metadata = {
+  title: "Se o Brasil arrecada trilhões, por que falta dinheiro?",
+  description:
+    "Uma reflexão sobre orçamento público, arrecadação, dívida pública e a destinação dos recursos do Estado.",
+};
+
+
+
 export default function TemasPage() {
   return (
     <main className="min-h-screen bg-[#f5f5f3] text-zinc-900">

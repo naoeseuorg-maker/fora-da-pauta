@@ -1,3 +1,12 @@
+export const metadata = {
+  title: "Por que Terceiro Nível?",
+  description:
+    "Entenda a origem do nome Terceiro Nível e a proposta de observar temas que afetam a vida das pessoas.",
+};
+
+
+
+
 export default function EditorialPage() {
   return (
     <main className="min-h-screen bg-white text-zinc-900">

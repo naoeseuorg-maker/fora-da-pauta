@@ -1,3 +1,14 @@
+export const metadata = {
+  title: "Participar",
+  description:
+    "Sugira temas, acompanhe o projeto e participe da construção de uma reflexão pública mais ampla.",
+};
+
+
+
+
+
+
 "use client";
 
 import { useRouter } from "next/navigation";

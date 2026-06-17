@@ -1,3 +1,11 @@
+export const metadata = {
+  title: "A vitória é sua?",
+  description:
+    "Uma reflexão sobre disputas políticas e o impacto real dessas vitórias na vida das pessoas.",
+};
+
+
+
 export default function VitoriaESuaPage() {
   return (
     <main className="min-h-screen bg-[#f5f5f3] text-zinc-900">

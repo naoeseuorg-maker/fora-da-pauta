@@ -1,3 +1,11 @@
+export const metadata = {
+  title: "Fora da Pauta",
+  description:
+    "Perguntas e temas que circulam por camisetas, QR Codes e páginas de aprofundamento sobre temas que merecem observação pública.",
+};
+
+
+
 const perguntas = [
   {
     titulo: "Quem ganha enquanto todos brigam?",
