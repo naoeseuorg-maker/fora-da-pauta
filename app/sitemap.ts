@@ -11,7 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
     },
     {
-      url: "https://www.terceironivel.org/por-que-terceiro-nivel",
+      url: "https://www.terceironivel.org/editorial/por-que-terceiro-nivel",
       lastModified: new Date(),
     },
     {
