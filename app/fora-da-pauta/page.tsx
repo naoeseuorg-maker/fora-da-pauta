@@ -8,6 +8,12 @@ export const metadata = {
 
 const perguntas = [
   {
+    titulo: "Quem escolhe o que vira (ou não) notícia?",
+    imagem: "/camisetas/noticia/camiseta.png",
+    href: "/noticia",
+    status: "publicado",
+  },
+  {
     titulo: "Quem ganha enquanto todos brigam?",
     imagem: "/camisetas/quem-ganha/camiseta.png",
     href: "/quem-ganha",
