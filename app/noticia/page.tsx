@@ -110,8 +110,13 @@ export default function NoticiaPage() {
             </p>
 
             <p className="text-2xl leading-relaxed font-medium text-zinc-900">
-              Ao encontrar uma notícia, observe também aquilo que está além
-              dela.
+              Ao encontrar uma notícia, faça uma pergunta simples:
+            </p>
+
+            <p>
+
+O que está por trás da notícia?
+
             </p>
 
             <p>
