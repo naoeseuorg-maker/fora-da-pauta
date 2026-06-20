@@ -110,14 +110,16 @@ export default function NoticiaPage() {
             </p>
 
             <p className="text-2xl leading-relaxed font-medium text-zinc-900">
-              Ao encontrar uma notícia, faça uma pergunta simples: 
+              Ao encontrar uma notícia, faça uma pergunta simples:
+            </p>
 
-             <p className="text-3xl md:text-4xl font-semibold text-zinc-900 text-center py-6">
+
+            <p className="text-3xl md:text-4xl font-semibold text-zinc-900 text-center py-6">
               O que está por trás da notícia?
             </p>
 
 
-           
+
             <p>
               Quem se beneficia quando esse assunto recebe atenção?
             </p>
@@ -127,20 +129,20 @@ export default function NoticiaPage() {
             </p>
 
             <p>
-  Quem está sendo prejudicado?
-</p>
+              Quem está sendo prejudicado?
+            </p>
 
-<p>
-  Que emoções esta narrativa procura despertar?
-</p>
+            <p>
+              Que emoções esta narrativa procura despertar?
+            </p>
 
-<p>
-  Estou sendo convidado a compreender ou apenas a reagir?
-</p>
+            <p>
+              Estou sendo convidado a compreender ou apenas a reagir?
+            </p>
 
-<p>
-  Quem se beneficia quando outros assuntos permanecem fora da pauta?
-</p>
+            <p>
+              Quem se beneficia quando outros assuntos permanecem fora da pauta?
+            </p>
             <p>
               Quais interesses estão sendo fortalecidos?
             </p>
