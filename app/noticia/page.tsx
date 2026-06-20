@@ -113,12 +113,10 @@ export default function NoticiaPage() {
               Ao encontrar uma notícia, faça uma pergunta simples:
             </p>
 
-            <p>
-
-O que está por trás da notícia?
-
+<p className="text-2xl leading-relaxed font-medium text-zinc-900">
+              O que está por trás da notícia?
             </p>
-
+           
             <p>
               Quem se beneficia quando esse assunto recebe atenção?
             </p>
