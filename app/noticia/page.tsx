@@ -16,9 +16,7 @@ export default function NoticiaPage() {
           />
 
           <h1 className="text-4xl md:text-5xl leading-tight font-semibold text-zinc-900 mb-6">
-            Fora da pauta:
-            <br />
-            quem decide
+            Quem decide
             <br />
             o que vira
             <br />
@@ -27,7 +25,7 @@ export default function NoticiaPage() {
 
           <p className="text-lg text-zinc-600 mb-8 max-w-xl mx-auto">
             Uma pergunta sobre notícia, atenção, interesses e aquilo que
-            permanece fora do debate público.
+            permanece fora da pauta.
           </p>
 
           <a
@@ -67,12 +65,48 @@ export default function NoticiaPage() {
             </p>
 
             <p>
-              Por isso, compreender a realidade talvez exija observar não apenas
-              aquilo que recebe atenção.
+              Todos os dias, nossa atenção é direcionada para determinados
+              assuntos.
             </p>
 
             <p>
-              Mas também aquilo que deixa de recebê-la.
+              Alguns temas ocupam manchetes, debates e redes sociais.
+            </p>
+
+            <p>
+              Outros permanecem quase invisíveis.
+            </p>
+
+            <p>
+              Isso não significa que sejam menos importantes.
+            </p>
+
+            <p>
+              Significa apenas que recebem menos atenção.
+            </p>
+
+            <p>
+              Porque a atenção pública é um recurso valioso.
+            </p>
+
+            <p>
+              Quem consegue influenciá-la influencia também os assuntos sobre
+              os quais as pessoas falam, se preocupam e reagem.
+            </p>
+
+            <p>
+              E quem influencia o debate influencia, em alguma medida, as
+              decisões que a sociedade toma.
+            </p>
+
+            <p className="text-2xl leading-relaxed font-medium text-zinc-900">
+              Nem sempre os assuntos mais importantes são os assuntos que
+              recebem mais atenção.
+            </p>
+
+            <p>
+              E nem sempre aquilo que recebe mais atenção é aquilo que mais
+              afeta a vida das pessoas.
             </p>
 
             <p className="text-2xl leading-relaxed font-medium text-zinc-900">
@@ -85,9 +119,24 @@ export default function NoticiaPage() {
             </p>
 
             <p>
-              Quem se beneficia quando outros assuntos permanecem fora da pauta?
+              Quem está sendo beneficiado por essa narrativa?
             </p>
 
+            <p>
+  Quem está sendo prejudicado?
+</p>
+
+<p>
+  Que emoções esta narrativa procura despertar?
+</p>
+
+<p>
+  Estou sendo convidado a compreender ou apenas a reagir?
+</p>
+
+<p>
+  Quem se beneficia quando outros assuntos permanecem fora da pauta?
+</p>
             <p>
               Quais interesses estão sendo fortalecidos?
             </p>
@@ -97,24 +146,10 @@ export default function NoticiaPage() {
             </p>
 
             <p className="text-2xl leading-relaxed font-medium text-zinc-900">
-              Nem sempre a influência acontece apenas por aquilo que é escondido.
+              Mas existe uma pergunta ainda mais importante.
             </p>
 
-            <p>
-              Às vezes ela acontece também por aquilo que recebe atenção
-              constante.
-            </p>
-
-            <p>
-              Porque aquilo que ocupa o centro da pauta pode acabar escondendo
-              tudo aquilo que permanece ao seu redor.
-            </p>
-
-            <p>
-              Por isso, é importante perguntar:
-            </p>
-
-            <p className="text-2xl leading-relaxed font-medium text-zinc-900">
+            <p className="text-3xl md:text-4xl font-semibold text-zinc-900 text-center py-6">
               O que não está sendo mostrado?
             </p>
 
@@ -131,9 +166,18 @@ export default function NoticiaPage() {
               Quais perguntas quase nunca são feitas?
             </p>
 
-            <p className="text-2xl leading-relaxed font-medium text-zinc-900">
-              Isso importa porque a forma como percebemos a realidade influencia
-              as decisões que tomamos.
+            <p>
+              Nem sempre a influência acontece apenas por aquilo que é escondido.
+            </p>
+
+            <p>
+              Às vezes ela acontece também por aquilo que recebe atenção
+              constante.
+            </p>
+
+            <p>
+              Porque aquilo que ocupa o centro da pauta pode acabar escondendo
+              tudo aquilo que permanece ao seu redor.
             </p>
 
             <p>
@@ -141,7 +185,8 @@ export default function NoticiaPage() {
             </p>
 
             <p>
-              Aquilo que permanece fora da pauta tende a parecer menos relevante.
+              Aquilo que permanece fora da pauta tende a parecer menos
+              relevante.
             </p>
 
             <p>
@@ -159,7 +204,7 @@ export default function NoticiaPage() {
             </p>
 
             <p>
-              Mas reduz a chance de seguirmos caminhos que nunca escolhemos
+              Mas reduz a chance de seguirmos caminhos que nunca escolheríamos
               conscientemente.
             </p>
 
