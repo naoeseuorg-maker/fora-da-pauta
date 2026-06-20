@@ -110,12 +110,13 @@ export default function NoticiaPage() {
             </p>
 
             <p className="text-2xl leading-relaxed font-medium text-zinc-900">
-              Ao encontrar uma notícia, faça uma pergunta simples:
-            </p>
+              Ao encontrar uma notícia, faça uma pergunta simples: 
 
-<p className="text-2xl leading-relaxed font-medium text-zinc-900">
+             <p className="text-3xl md:text-4xl font-semibold text-zinc-900 text-center py-6">
               O que está por trás da notícia?
             </p>
+
+
            
             <p>
               Quem se beneficia quando esse assunto recebe atenção?
