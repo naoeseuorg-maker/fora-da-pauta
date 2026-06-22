@@ -29,7 +29,7 @@ export default function NoticiaPage() {
           </p>
 
           <a
-            href="https://montink.com/terceiro-nivel/noticia-8suwl"
+            href="https://montink.com/terceiro-nivel/noticia-c2kki"
             target="_blank"
             className="inline-block bg-zinc-900 text-white rounded-2xl py-4 px-8 text-base font-medium hover:bg-zinc-800 transition-all duration-300"
           >
@@ -229,12 +229,20 @@ export default function NoticiaPage() {
 
             <div className="pt-10 text-center">
               <a
-                href="https://montink.com/terceiro-nivel/noticia-8suwl"
+                href="https://montink.com/terceiro-nivel/noticia-c2kki"
                 target="_blank"
                 className="inline-block bg-zinc-900 text-white rounded-2xl py-4 px-8 text-base font-medium hover:bg-zinc-800 transition-all duration-300"
               >
                 Adquirir camiseta
               </a>
+
+               <div className="mt-10 flex flex-col items-center gap-4 text-sm uppercase tracking-[0.2em]">
+                <a
+                  href="/editorial/por-que-terceiro-nivel"
+                  className="text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
+                >
+                  Entender o projeto
+                </a>
 
               <div className="mt-10 flex flex-col items-center gap-4 text-sm uppercase tracking-[0.2em]">
                 <a

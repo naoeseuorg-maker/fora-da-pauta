@@ -137,6 +137,13 @@ export default function QuemGanhaPage() {
                 Adquirir camiseta
               </a>
 
+              <a
+                  href="/editorial/por-que-terceiro-nivel"
+                  className="text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
+                >
+                  Entender o projeto
+                </a>
+
               <div className="mt-10 flex flex-col items-center gap-4 text-sm uppercase tracking-[0.2em]">
                 <a
                   href="/participar"

@@ -69,12 +69,12 @@ export default function Home() {
               </div>
 
               <h2 className="text-2xl font-semibold mb-3">
-                Por que Terceiro Nível?
-              </h2>
+  Entender o projeto
+</h2>
 
-              <p className="text-zinc-500 leading-relaxed">
-                Entenda a origem do nome e a proposta do projeto.
-              </p>
+<p className="text-zinc-500 leading-relaxed">
+  Conheça a origem do símbolo, do nome e da proposta do projeto.
+</p>
             </a>
 
             <a

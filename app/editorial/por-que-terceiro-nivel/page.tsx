@@ -43,6 +43,45 @@ export default function PorQueTerceiroNivelPage() {
         </div>
       </section>
 
+      {/* O SÍMBOLO */}
+
+<section className="py-16 md:py-20 px-6 border-t border-zinc-200">
+  <div className="max-w-2xl mx-auto">
+    <div className="text-sm uppercase tracking-[0.2em] text-zinc-500 mb-6">
+      O símbolo
+    </div>
+
+```
+<h2 className="text-3xl md:text-4xl leading-tight font-semibold mb-10">
+  O triângulo invertido representa uma inversão de prioridades.
+</h2>
+
+<div className="space-y-6 text-lg leading-relaxed text-zinc-700">
+  <p>
+    Aquilo que deveria estar no topo foi colocado na base.
+  </p>
+
+  <p>
+    O terceiro nível é a camada que trabalha, produz, sustenta serviços e
+    mantém o país funcionando.
+  </p>
+
+  <p>
+    Mesmo assim, é justamente essa camada que muitas vezes possui menos
+    tempo, menos recursos e menos influência sobre as decisões que afetam
+    sua própria vida.
+  </p>
+
+  <p>
+    O triângulo invertido convida a refletir sobre essa inversão.
+  </p>
+</div>
+```
+
+  </div>
+</section>
+
+
       {/* OS TRÊS NÍVEIS */}
 
       <section className="py-16 md:py-20 px-6 border-t border-zinc-200">
@@ -145,12 +184,14 @@ export default function PorQueTerceiroNivelPage() {
 
       <section className="py-16 px-6 border-t border-zinc-200">
         <div className="max-w-2xl mx-auto flex justify-center">
+          
           <a
-            href="/"
-            className="text-sm uppercase tracking-[0.2em] text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
-          >
-            Fechar
-          </a>
+  href="/fora-da-pauta"
+  className="text-sm uppercase tracking-[0.2em] text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
+>
+  Explorar os temas
+</a>
+
         </div>
       </section>
     </main>
