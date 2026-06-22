@@ -228,46 +228,44 @@ export default function NoticiaPage() {
             </p>
 
             <div className="pt-10 text-center">
-              <a
-                href="https://montink.com/terceiro-nivel/noticia-c2kki"
-                target="_blank"
-                className="inline-block bg-zinc-900 text-white rounded-2xl py-4 px-8 text-base font-medium hover:bg-zinc-800 transition-all duration-300"
-              >
-                Adquirir camiseta
-              </a>
+  <a
+    href="https://montink.com/terceiro-nivel/noticia-8suwl"
+    target="_blank"
+    className="inline-block bg-zinc-900 text-white rounded-2xl py-4 px-8 text-base font-medium hover:bg-zinc-800 transition-all duration-300"
+  >
+    Adquirir camiseta
+  </a>
 
-               <div className="mt-10 flex flex-col items-center gap-4 text-sm uppercase tracking-[0.2em]">
-                <a
-                  href="/editorial/por-que-terceiro-nivel"
-                  className="text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
-                >
-                  Entender o projeto
-                </a>
+  <div className="mt-10 flex flex-col items-center gap-4 text-sm uppercase tracking-[0.2em]">
+    <a
+      href="/editorial/por-que-terceiro-nivel"
+      className="text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
+    >
+      Entender o projeto
+    </a>
 
-              <div className="mt-10 flex flex-col items-center gap-4 text-sm uppercase tracking-[0.2em]">
-                <a
-                  href="/participar"
-                  className="text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
-                >
-                  Participar
-                </a>
+    <a
+      href="/participar"
+      className="text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
+    >
+      Participar
+    </a>
 
-                <a
-                  href="/fora-da-pauta"
-                  className="text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
-                >
-                  Fora da Pauta
-                </a>
+    <a
+      href="/fora-da-pauta"
+      className="text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
+    >
+      Fora da Pauta
+    </a>
 
-                <a
-                  href="/"
-                  className="text-zinc-400 hover:text-zinc-900 transition-colors duration-300"
-                >
-                  Início
-                </a>
-              </div>
-            </div>
-          </article>
+    <a
+      href="/"
+      className="text-zinc-400 hover:text-zinc-900 transition-colors duration-300"
+    >
+      Início
+    </a>
+  </div>
+</div>          </article>
         </div>
       </section>
     </main>
