@@ -23,16 +23,19 @@ export default function PorQueTerceiroNivelPage() {
 
           <div className="space-y-6 text-lg leading-relaxed text-zinc-700">
             <p>
-              Porque o terceiro nível é a camada da sociedade que sustenta tudo
-              e mantém o país funcionando, mas nem sempre tem tempo para
-              acompanhar as estruturas que influenciam sua própria realidade.
+              Porque o terceiro nível é a camada da sociedade que mantém o país
+              funcionando.
             </p>
 
             <p>
-              Enquanto grande parte da população está ocupada tentando garantir
-              trabalho, renda, deslocamento, estabilidade e sobrevivência,
-              estruturas organizadas possuem mais tempo, recursos e capacidade
-              de influência sobre os rumos da sociedade.
+              É nela que estão as pessoas que trabalham, produzem, consomem,
+              pagam impostos e sustentam o funcionamento cotidiano da sociedade.
+            </p>
+
+            <p>
+              Ao mesmo tempo, é justamente essa camada que muitas vezes possui
+              menos tempo para acompanhar as estruturas que influenciam sua
+              própria realidade.
             </p>
 
             <p>
@@ -45,42 +48,40 @@ export default function PorQueTerceiroNivelPage() {
 
       {/* O SÍMBOLO */}
 
-<section className="py-16 md:py-20 px-6 border-t border-zinc-200">
-  <div className="max-w-2xl mx-auto">
-    <div className="text-sm uppercase tracking-[0.2em] text-zinc-500 mb-6">
-      O símbolo
-    </div>
+      <section className="py-16 md:py-20 px-6 border-t border-zinc-200">
+        <div className="max-w-2xl mx-auto">
+          <div className="text-sm uppercase tracking-[0.2em] text-zinc-500 mb-6">
+            O símbolo
+          </div>
 
-```
-<h2 className="text-3xl md:text-4xl leading-tight font-semibold mb-10">
-  O triângulo invertido representa uma inversão de prioridades.
-</h2>
+          <h2 className="text-3xl md:text-4xl leading-tight font-semibold mb-10">
+            O triângulo invertido representa uma pergunta.
+          </h2>
 
-<div className="space-y-6 text-lg leading-relaxed text-zinc-700">
-  <p>
-    Aquilo que deveria estar no topo foi colocado na base.
-  </p>
+          <div className="space-y-6 text-lg leading-relaxed text-zinc-700">
+            <p>
+              Se a base sustenta tudo, por que ela costuma ocupar tão pouco
+              espaço nas decisões e discussões que afetam sua própria vida?
+            </p>
 
-  <p>
-    O terceiro nível é a camada que trabalha, produz, sustenta serviços e
-    mantém o país funcionando.
-  </p>
+            <p>
+              O terceiro nível é a camada que trabalha, produz, sustenta
+              serviços e mantém o país funcionando.
+            </p>
 
-  <p>
-    Mesmo assim, é justamente essa camada que muitas vezes possui menos
-    tempo, menos recursos e menos influência sobre as decisões que afetam
-    sua própria vida.
-  </p>
+            <p>
+              Mesmo assim, é justamente essa camada que muitas vezes possui
+              menos tempo, menos recursos e menos influência sobre as decisões
+              que afetam sua própria vida.
+            </p>
 
-  <p>
-    O triângulo invertido convida a refletir sobre essa inversão.
-  </p>
-</div>
-```
-
-  </div>
-</section>
-
+            <p>
+              O triângulo invertido convida a refletir sobre essa inversão de
+              prioridades.
+            </p>
+          </div>
+        </div>
+      </section>
 
       {/* OS TRÊS NÍVEIS */}
 
@@ -90,9 +91,34 @@ export default function PorQueTerceiroNivelPage() {
             Os três níveis
           </div>
 
-          <h2 className="text-3xl md:text-4xl leading-tight font-semibold mb-12">
+          <h2 className="text-3xl md:text-4xl leading-tight font-semibold mb-8">
             Uma forma simples de enxergar a estrutura do país.
           </h2>
+
+          <div className="space-y-6 text-lg leading-relaxed text-zinc-700 mb-12">
+            <p>
+              Os três níveis não representam grupos fechados nem explicam toda a
+              complexidade da sociedade.
+            </p>
+
+            <p>
+              São apenas uma forma simples de observar como diferentes
+              estruturas se relacionam.
+            </p>
+
+            <p>
+              O projeto parte da percepção de que grupos com maior poder
+              econômico e organizacional costumam possuir mais capacidade de
+              influência sobre os rumos da sociedade do que a população em
+              geral.
+            </p>
+
+            <p>
+              Nesse contexto, o Terceiro Nível procura olhar a realidade a
+              partir da perspectiva das pessoas que sustentam o funcionamento
+              cotidiano do país.
+            </p>
+          </div>
 
           <div className="space-y-6">
             <div className="border border-zinc-200 rounded-[32px] p-7 bg-white">
@@ -101,13 +127,13 @@ export default function PorQueTerceiroNivelPage() {
               </div>
 
               <h3 className="text-2xl leading-tight font-semibold mb-4">
-                Estruturas predominantes de poder
+                Estruturas de poder e influência
               </h3>
 
               <p className="text-zinc-700 leading-relaxed">
-                Grandes estruturas econômicas, financeiras, políticas e grupos
-                organizados com alta capacidade de influência sobre decisões
-                públicas, circulação de recursos e direcionamento institucional.
+                Grandes grupos econômicos, financeiros e organizações com
+                elevada capacidade de influência sobre decisões, recursos e
+                direcionamentos da sociedade.
               </p>
             </div>
 
@@ -117,12 +143,13 @@ export default function PorQueTerceiroNivelPage() {
               </div>
 
               <h3 className="text-2xl leading-tight font-semibold mb-4">
-                Intermediação institucional e narrativa pública
+                Governo e instituições públicas
               </h3>
 
               <p className="text-zinc-700 leading-relaxed">
-                Espaços responsáveis por administrar, comunicar, interpretar
-                acontecimentos e influenciar a percepção pública da sociedade.
+                O conjunto de instituições responsáveis por administrar o
+                Estado, elaborar leis, executar políticas públicas e aplicar a
+                justiça.
               </p>
             </div>
 
@@ -136,10 +163,10 @@ export default function PorQueTerceiroNivelPage() {
               </h3>
 
               <p className="leading-relaxed text-zinc-300">
-                A camada social que trabalha, produz, sustenta serviços e mantém
-                o funcionamento concreto do país, mas que raramente consegue
-                acompanhar profundamente as estruturas que influenciam sua
-                própria realidade.
+                A população que trabalha, produz, consome, paga impostos e
+                mantém o funcionamento cotidiano do país, mas que muitas vezes
+                possui menos tempo para acompanhar as estruturas que influenciam
+                sua própria realidade.
               </p>
             </div>
           </div>
@@ -160,21 +187,24 @@ export default function PorQueTerceiroNivelPage() {
 
           <div className="space-y-6 text-lg leading-relaxed text-zinc-700">
             <p>
-              Grande parte da população vive ocupada tentando sustentar a própria
-              rotina: trabalho, deslocamento, contas, estabilidade e
+              Grande parte da população vive ocupada tentando sustentar a
+              própria rotina: trabalho, deslocamento, contas, estabilidade e
               sobrevivência.
             </p>
 
             <p>
-              Enquanto isso, grupos organizados possuem mais tempo, estrutura,
-              recursos e capacidade de influência sobre decisões econômicas,
-              políticas e institucionais.
+              Enquanto isso, decisões econômicas, políticas e institucionais
+              continuam sendo tomadas diariamente.
             </p>
 
             <p>
-              Muitas vezes, quem sofre diretamente os impactos dessas decisões é
-              quem possui menos tempo para compreender profundamente como elas
-              funcionam.
+              Muitas dessas decisões afetam diretamente a vida das pessoas, mas
+              raramente são explicadas de forma simples e acessível.
+            </p>
+
+            <p>
+              O Terceiro Nível existe para aproximar esses temas do cotidiano,
+              ajudando a transformar assuntos complexos em compreensão prática.
             </p>
           </div>
         </div>
@@ -184,14 +214,12 @@ export default function PorQueTerceiroNivelPage() {
 
       <section className="py-16 px-6 border-t border-zinc-200">
         <div className="max-w-2xl mx-auto flex justify-center">
-          
           <a
-  href="/fora-da-pauta"
-  className="text-sm uppercase tracking-[0.2em] text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
->
-  Explorar os temas
-</a>
-
+            href="/fora-da-pauta"
+            className="text-sm uppercase tracking-[0.2em] text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
+          >
+            Explorar os temas
+          </a>
         </div>
       </section>
     </main>
